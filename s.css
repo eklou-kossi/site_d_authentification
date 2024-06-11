@@ -1,0 +1,102 @@
+
+
+.connexion{
+    width: 30%;
+    padding: 20px;
+    box-shadow: 5px 5px 10px  #a5a5a5;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.inscription{
+    margin: auto 20%;
+    padding: 20px;
+    box-shadow: 5px 5px 10px  #a5a5a5;
+    border-radius: 10px;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .form-control:focus-visible, .form-select:focus-visible {
+    border-color: #0E2377;
+    box-shadow: none;
+    outline: none !important;
+  }
+  
+  .btn-danger{
+    background-color: rgb(237, 31, 31);
+    border: none;
+  }
+  .btn-danger:hover{
+    background-color: rgba(237, 31, 31, 0.763);
+    border: none;
+  }
+  
+  .btn-success{
+    background-color: rgb(31, 190, 31);
+    border: none;
+  }
+  .btn-success:hover{
+    background-color: rgba(31, 190, 31, 0.778);
+    border: none;
+  }
+  .btn-primary:hover{
+    background-color: rgba(31, 55, 190, 0.778);
+    border: none;
+  }
+  .btn-primary{
+    background-color: rgb(31, 55, 190);
+    border: none;
+  }
+
+  table thead tr th{
+    background-color: #0E2377 !important;
+    color: #fff !important;
+  }
+  
+  td, th{
+    text-align: center;
+  }
+
+  .header-nav .nav-profile img {
+    max-height: 36px;
+  }
+  
+  .header-nav .nav-profile span {
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  
+
+  
+  .header-nav .nav-profile {
+    color: #012970;
+  }
+  
+  .header-nav .nav-profile img {
+    max-height: 36px;
+  }
+  
+  .header-nav .nav-profile span {
+    font-size: 14px;
+    font-weight: 600;
+  }  
+  
+
+  .section .row .col-lg-12{
+    margin: auto 20%;
+  }
+
+  /* .index-bg  {
+    background-image: url('./AdobeStock_370928450_Preview.jpeg');
+  } */
+
+  /* .body-page{
+    margin-top: 100px;
+    height: 200vh;
+  } */
